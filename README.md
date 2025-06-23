@@ -26,7 +26,7 @@
 
 | 模块 | 内容 | 推荐资源 |
 |------|------|----------|
-| 区块链基础 | 钱包、公私钥、Gas、EVM、区块结构 | [登链社区区块链入门指南](https://learnblockchain.cn/docs/blockchain/) |
+| 区块链基础 | 钱包、公私钥、Gas、EVM、区块结构 | [登链社区区块链入门指南](https://guide.pseudoyu.com/zh/) |
 | 钱包交互 | MetaMask、签名、WalletConnect | [ethers.js 文档](https://docs.ethers.org/) |
 | 智能合约 | Solidity 基础、部署、事件机制 | [CryptoZombies](https://cryptozombies.io/)、[Solidity 中文文档](https://learnblockchain.cn/docs/solidity/) |
 | 前端集成 | ethers.js / web3.js 与前端集成 | [SpeedRun Ethereum](https://speedrunethereum.com/)、[Buildspace](https://buildspace.so/) |
